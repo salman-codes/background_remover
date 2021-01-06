@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text&display=swap");
+body {
+  background-color: #57ffef00;
+}
+hr {
+  background-color: #57ffef00;
+}
+.main-container {
+  margin: auto;
+  width: 50%;
+  height: 80%;
+  padding: 10px;
+  margin: 20px auto;
+  background-color: #323031;
+  border-radius: 3px;
+  box-shadow: 6px 2px 30px 0px rgba(0, 0, 0, 0.75);
+  font-family: "DM Sans", sans-serif;
+  word-wrap: break-word;
+  color: #57ffef00;
+}
+
+input[type="file"] {
+  font-family: "DM Sans", sans-serif;
+  word-wrap: break-word;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Staatliches", cursive;
+  color: #57fff7bf;
+}
+
+.upload-img-div {
+  padding: 5%;
+}
+
+.btn-warning {
+  background-color: #57fff7bf;
+  border-color: #57fff7bf;
+}
